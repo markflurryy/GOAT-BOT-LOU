@@ -20,27 +20,27 @@
   },
   "adminBot": [
     "100071880593545",
-    ""
+    "61575575867769"
   ],
   "DEV": [
     "100071880593545",
-    ""
+    "61575575867769"
   ],
   "GOD": [
-    "100071880593545",
-    ""
+    "100024270410090",
+    "61575575867769"
   ],
   "whiteListMode": {
     "enable": false,
     "whiteListIds": [],
     "notes": "if you enable this feature, only the ids in the whiteListIds section can use the bot"
   },
-  "nickNameBot": "Goat-Bot-V2",
+  "nickNameBot": "Lou Bot",
   "prefix": "/",
   "autoSetNickname": true,
-  "authorFB": "https://www.facebook.com/100071880593545",
-  "authorName": "Aminul Sardar",
-  "authorEmail": "aminulsordar04@gmail.com",
+  "authorFB": "https://www.facebook.com/markleedmeniola",
+  "authorName": "Mark Lee",
+  "authorEmail": "markleemeniola@gmail.com",
   "database": {
     "type": "sqlite",
     "uriMongodb": "",
